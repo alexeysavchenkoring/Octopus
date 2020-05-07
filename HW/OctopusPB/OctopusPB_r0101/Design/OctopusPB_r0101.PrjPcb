@@ -241,7 +241,7 @@ UniqueID=D7F07DEC-DF09-41DC-9848-4FAF22244C6D
 Description=LM61460-Q1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=155
+VariationCount=163
 Variation1=Designator=R68|UniqueId=\BCAXLFXA|Kind=1|AlternatePart= 
 Variation2=Designator=R69|UniqueId=\ENDKUVSI|Kind=1|AlternatePart= 
 Variation3=Designator=XP6|UniqueId=\PWNDMITU\AFOJRDMJ|Kind=1|AlternatePart= 
@@ -397,6 +397,14 @@ Variation152=Designator=R19_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\RKHEYCFI|Kind=1|Alte
 Variation153=Designator=R10_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\FWQVFKTO|Kind=1|AlternatePart= 
 Variation154=Designator=R87_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\DWOTVSPG|Kind=1|AlternatePart= 
 Variation155=Designator=R10_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\FWQVFKTO|Kind=1|AlternatePart= 
+Variation156=Designator=U2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\KYRNXZTU|Kind=1|AlternatePart= 
+Variation157=Designator=U2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\KYRNXZTU|Kind=1|AlternatePart= 
+Variation158=Designator=U2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\KYRNXZTU|Kind=1|AlternatePart= 
+Variation159=Designator=U2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\KYRNXZTU|Kind=1|AlternatePart= 
+Variation160=Designator=U2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\KYRNXZTU|Kind=1|AlternatePart= 
+Variation161=Designator=U2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\KYRNXZTU|Kind=1|AlternatePart= 
+Variation162=Designator=U2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\KYRNXZTU|Kind=1|AlternatePart= 
+Variation163=Designator=U2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\KYRNXZTU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
