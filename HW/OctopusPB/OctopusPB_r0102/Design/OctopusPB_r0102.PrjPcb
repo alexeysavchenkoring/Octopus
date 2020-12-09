@@ -207,7 +207,7 @@ UniqueID=D7F07DEC-DF09-41DC-9848-4FAF22244C6D
 Description=LM61460-Q1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=170
+VariationCount=178
 Variation1=Designator=R68|UniqueId=\BCAXLFXA|Kind=0|AlternatePart= 
 Variation2=Designator=R69|UniqueId=\ENDKUVSI|Kind=1|AlternatePart= 
 Variation3=Designator=XP6|UniqueId=\PWNDMITU\AFOJRDMJ|Kind=1|AlternatePart= 
@@ -378,6 +378,14 @@ Variation167=Designator=R103_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PBJJFKHN|Kind=1|Alt
 Variation168=Designator=R103_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PBJJFKHN|Kind=1|AlternatePart= 
 Variation169=Designator=R103_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PBJJFKHN|Kind=1|AlternatePart= 
 Variation170=Designator=R103_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PBJJFKHN|Kind=1|AlternatePart= 
+Variation171=Designator=R?_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation172=Designator=R?_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation173=Designator=R?_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation174=Designator=R?_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation175=Designator=R?_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation176=Designator=R?_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation177=Designator=R?_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation178=Designator=R?_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [SearchPath1]
