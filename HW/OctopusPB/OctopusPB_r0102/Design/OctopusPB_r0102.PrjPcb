@@ -158,101 +158,511 @@ DocumentUniqueId=LUGKNMKX
 
 [ProjectVariant1]
 UniqueID=D7F07DEC-DF09-41DC-9848-4FAF22244C6D
-Description=LM61460-Q1
+Description=Octopus
 AllowFabrication=0
 ParameterCount=0
-VariationCount=90
+VariationCount=74
 Variation1=Designator=R69|UniqueId=\ENDKUVSI|Kind=1|AlternatePart= 
 Variation2=Designator=XP6|UniqueId=\PWNDMITU\AFOJRDMJ|Kind=1|AlternatePart= 
 Variation3=Designator=R6_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
 Variation4=Designator=C4_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
-Variation5=Designator=R10_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\OKQALYJN|Kind=1|AlternatePart= 
-Variation6=Designator=R8_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\YJDJFZCS|Kind=1|AlternatePart= 
-Variation7=Designator=R59_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\XXJWSPHF|Kind=1|AlternatePart= 
-Variation8=Designator=R58_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PMBUDVWR|Kind=1|AlternatePart= 
-Variation9=Designator=R59_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\XXJWSPHF|Kind=1|AlternatePart= 
-Variation10=Designator=R8_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\YJDJFZCS|Kind=1|AlternatePart= 
-Variation11=Designator=R74_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PAJXEPYY|Kind=1|AlternatePart= 
-Variation12=Designator=R58_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PMBUDVWR|Kind=1|AlternatePart= 
-Variation13=Designator=R74_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PAJXEPYY|Kind=1|AlternatePart= 
-Variation14=Designator=R8_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\YJDJFZCS|Kind=1|AlternatePart= 
-Variation15=Designator=R59_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\XXJWSPHF|Kind=1|AlternatePart= 
-Variation16=Designator=R58_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PMBUDVWR|Kind=1|AlternatePart= 
-Variation17=Designator=R59_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\XXJWSPHF|Kind=1|AlternatePart= 
-Variation18=Designator=R8_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\YJDJFZCS|Kind=1|AlternatePart= 
-Variation19=Designator=R74_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PAJXEPYY|Kind=1|AlternatePart= 
-Variation20=Designator=R58_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PMBUDVWR|Kind=1|AlternatePart= 
-Variation21=Designator=R74_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PAJXEPYY|Kind=1|AlternatePart= 
-Variation22=Designator=R25_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
-Variation23=Designator=R24_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
-Variation24=Designator=R23_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
-Variation25=Designator=R25_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
-Variation26=Designator=R24_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
-Variation27=Designator=R23_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
-Variation28=Designator=R23_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
-Variation29=Designator=R24_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
-Variation30=Designator=R26_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
-Variation31=Designator=R23_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
-Variation32=Designator=R24_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
-Variation33=Designator=R26_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
-Variation34=Designator=R23_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
-Variation35=Designator=R25_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
-Variation36=Designator=R26_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
-Variation37=Designator=R23_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
-Variation38=Designator=R25_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
-Variation39=Designator=R26_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
-Variation40=Designator=R24_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
-Variation41=Designator=R25_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
-Variation42=Designator=R26_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
-Variation43=Designator=R24_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
-Variation44=Designator=R25_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
-Variation45=Designator=R26_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
-Variation46=Designator=FB2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
-Variation47=Designator=FB2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
-Variation48=Designator=FB2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
-Variation49=Designator=FB2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
-Variation50=Designator=FB2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
-Variation51=Designator=FB2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
-Variation52=Designator=FB2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
-Variation53=Designator=FB2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
-Variation54=Designator=R6_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
-Variation55=Designator=C4_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
-Variation56=Designator=R6_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
-Variation57=Designator=C4_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
-Variation58=Designator=C4_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
-Variation59=Designator=R6_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
-Variation60=Designator=R6_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
-Variation61=Designator=C4_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
-Variation62=Designator=R6_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
-Variation63=Designator=C4_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
-Variation64=Designator=R6_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
-Variation65=Designator=C4_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
-Variation66=Designator=R6_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
-Variation67=Designator=C4_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
-Variation68=Designator=R10_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\OKQALYJN|Kind=1|AlternatePart= 
-Variation69=Designator=R10_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\OKQALYJN|Kind=1|AlternatePart= 
-Variation70=Designator=R10_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\OKQALYJN|Kind=1|AlternatePart= 
-Variation71=Designator=R10_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\OKQALYJN|Kind=1|AlternatePart= 
-Variation72=Designator=R10_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\OKQALYJN|Kind=1|AlternatePart= 
-Variation73=Designator=R10_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\OKQALYJN|Kind=1|AlternatePart= 
-Variation74=Designator=R10_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\OKQALYJN|Kind=1|AlternatePart= 
-Variation75=Designator=U2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\WLTOYRMP|Kind=1|AlternatePart= 
-Variation76=Designator=U2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\WLTOYRMP|Kind=1|AlternatePart= 
-Variation77=Designator=U2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\WLTOYRMP|Kind=1|AlternatePart= 
-Variation78=Designator=U2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\WLTOYRMP|Kind=1|AlternatePart= 
-Variation79=Designator=U2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\WLTOYRMP|Kind=1|AlternatePart= 
-Variation80=Designator=U2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\WLTOYRMP|Kind=1|AlternatePart= 
-Variation81=Designator=U2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\WLTOYRMP|Kind=1|AlternatePart= 
-Variation82=Designator=U2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\WLTOYRMP|Kind=1|AlternatePart= 
-Variation83=Designator=R7_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
-Variation84=Designator=R7_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
-Variation85=Designator=R7_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
-Variation86=Designator=R7_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
-Variation87=Designator=R7_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
-Variation88=Designator=R7_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
-Variation89=Designator=R7_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
-Variation90=Designator=R7_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation5=Designator=R8_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\YJDJFZCS|Kind=1|AlternatePart= 
+Variation6=Designator=R59_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\XXJWSPHF|Kind=1|AlternatePart= 
+Variation7=Designator=R58_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PMBUDVWR|Kind=1|AlternatePart= 
+Variation8=Designator=R59_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\XXJWSPHF|Kind=1|AlternatePart= 
+Variation9=Designator=R8_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\YJDJFZCS|Kind=1|AlternatePart= 
+Variation10=Designator=R74_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PAJXEPYY|Kind=1|AlternatePart= 
+Variation11=Designator=R58_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PMBUDVWR|Kind=1|AlternatePart= 
+Variation12=Designator=R74_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PAJXEPYY|Kind=1|AlternatePart= 
+Variation13=Designator=R8_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\YJDJFZCS|Kind=1|AlternatePart= 
+Variation14=Designator=R59_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\XXJWSPHF|Kind=1|AlternatePart= 
+Variation15=Designator=R58_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PMBUDVWR|Kind=1|AlternatePart= 
+Variation16=Designator=R59_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\XXJWSPHF|Kind=1|AlternatePart= 
+Variation17=Designator=R8_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\YJDJFZCS|Kind=1|AlternatePart= 
+Variation18=Designator=R74_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PAJXEPYY|Kind=1|AlternatePart= 
+Variation19=Designator=R58_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PMBUDVWR|Kind=1|AlternatePart= 
+Variation20=Designator=R74_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PAJXEPYY|Kind=1|AlternatePart= 
+Variation21=Designator=R25_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
+Variation22=Designator=R24_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
+Variation23=Designator=R23_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
+Variation24=Designator=R25_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
+Variation25=Designator=R24_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
+Variation26=Designator=R23_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
+Variation27=Designator=R23_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
+Variation28=Designator=R24_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
+Variation29=Designator=R26_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation30=Designator=R23_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
+Variation31=Designator=R24_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
+Variation32=Designator=R26_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation33=Designator=R23_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
+Variation34=Designator=R25_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
+Variation35=Designator=R26_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation36=Designator=R23_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
+Variation37=Designator=R25_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
+Variation38=Designator=R26_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation39=Designator=R24_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
+Variation40=Designator=R25_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
+Variation41=Designator=R26_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation42=Designator=R24_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
+Variation43=Designator=R25_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
+Variation44=Designator=R26_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation45=Designator=FB2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
+Variation46=Designator=FB2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
+Variation47=Designator=FB2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
+Variation48=Designator=FB2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PSNFOGLS|Kind=1|AlternatePart= 
+Variation49=Designator=FB2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
+Variation50=Designator=FB2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
+Variation51=Designator=FB2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
+Variation52=Designator=FB2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PSNFOGLS|Kind=1|AlternatePart= 
+Variation53=Designator=R6_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation54=Designator=C4_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation55=Designator=R6_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation56=Designator=C4_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation57=Designator=C4_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation58=Designator=R6_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation59=Designator=R6_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation60=Designator=C4_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation61=Designator=R6_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation62=Designator=C4_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation63=Designator=R6_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation64=Designator=C4_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation65=Designator=R6_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation66=Designator=C4_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation67=Designator=R7_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation68=Designator=R7_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation69=Designator=R7_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation70=Designator=R7_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation71=Designator=R7_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation72=Designator=R7_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation73=Designator=R7_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation74=Designator=R7_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=AE4948EF-0781-46D4-941E-C10A46C84DDC
+Description=PB_alone
+AllowFabrication=0
+ParameterCount=0
+VariationCount=82
+Variation1=Designator=R69|UniqueId=\ENDKUVSI|Kind=1|AlternatePart= 
+Variation2=Designator=XP6|UniqueId=\PWNDMITU\AFOJRDMJ|Kind=1|AlternatePart= 
+Variation3=Designator=R6_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation4=Designator=C4_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation5=Designator=R8_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\YJDJFZCS|Kind=1|AlternatePart= 
+Variation6=Designator=R59_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\XXJWSPHF|Kind=1|AlternatePart= 
+Variation7=Designator=R58_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PMBUDVWR|Kind=1|AlternatePart= 
+Variation8=Designator=R59_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\XXJWSPHF|Kind=1|AlternatePart= 
+Variation9=Designator=R8_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\YJDJFZCS|Kind=1|AlternatePart= 
+Variation10=Designator=R74_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PAJXEPYY|Kind=1|AlternatePart= 
+Variation11=Designator=R58_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PMBUDVWR|Kind=1|AlternatePart= 
+Variation12=Designator=R74_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PAJXEPYY|Kind=1|AlternatePart= 
+Variation13=Designator=R8_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\YJDJFZCS|Kind=1|AlternatePart= 
+Variation14=Designator=R59_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\XXJWSPHF|Kind=1|AlternatePart= 
+Variation15=Designator=R58_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PMBUDVWR|Kind=1|AlternatePart= 
+Variation16=Designator=R59_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\XXJWSPHF|Kind=1|AlternatePart= 
+Variation17=Designator=R8_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\YJDJFZCS|Kind=1|AlternatePart= 
+Variation18=Designator=R74_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PAJXEPYY|Kind=1|AlternatePart= 
+Variation19=Designator=R58_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PMBUDVWR|Kind=1|AlternatePart= 
+Variation20=Designator=R74_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PAJXEPYY|Kind=1|AlternatePart= 
+Variation21=Designator=R25_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
+Variation22=Designator=R24_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
+Variation23=Designator=R23_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
+Variation24=Designator=R25_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
+Variation25=Designator=R24_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
+Variation26=Designator=R23_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
+Variation27=Designator=R23_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
+Variation28=Designator=R24_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
+Variation29=Designator=R26_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation30=Designator=R23_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
+Variation31=Designator=R24_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
+Variation32=Designator=R26_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation33=Designator=R23_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\QHNKGQIY|Kind=1|AlternatePart= 
+Variation34=Designator=R25_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
+Variation35=Designator=R26_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation36=Designator=R23_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\QHNKGQIY|Kind=1|AlternatePart= 
+Variation37=Designator=R25_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
+Variation38=Designator=R26_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation39=Designator=R24_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\HMJNBUHY|Kind=1|AlternatePart= 
+Variation40=Designator=R25_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\TGGQAIWA|Kind=1|AlternatePart= 
+Variation41=Designator=R26_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation42=Designator=R24_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\HMJNBUHY|Kind=1|AlternatePart= 
+Variation43=Designator=R25_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\TGGQAIWA|Kind=1|AlternatePart= 
+Variation44=Designator=R26_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\LWEHZUMQ|Kind=1|AlternatePart= 
+Variation45=Designator=FB2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\PSNFOGLS|Kind=0|AlternatePart= 
+Variation46=Designator=FB2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PSNFOGLS|Kind=0|AlternatePart= 
+Variation47=Designator=FB2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PSNFOGLS|Kind=0|AlternatePart= 
+Variation48=Designator=FB2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PSNFOGLS|Kind=0|AlternatePart= 
+Variation49=Designator=FB2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PSNFOGLS|Kind=0|AlternatePart= 
+Variation50=Designator=FB2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PSNFOGLS|Kind=0|AlternatePart= 
+Variation51=Designator=FB2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PSNFOGLS|Kind=0|AlternatePart= 
+Variation52=Designator=FB2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PSNFOGLS|Kind=0|AlternatePart= 
+Variation53=Designator=R6_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation54=Designator=C4_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation55=Designator=R6_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation56=Designator=C4_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation57=Designator=C4_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\JHALVFML|Kind=1|AlternatePart= 
+Variation58=Designator=R6_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\PIUHHMZE|Kind=1|AlternatePart= 
+Variation59=Designator=R6_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation60=Designator=C4_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation61=Designator=R6_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation62=Designator=C4_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation63=Designator=R6_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation64=Designator=C4_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation65=Designator=R6_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\PIUHHMZE|Kind=1|AlternatePart= 
+Variation66=Designator=C4_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\JHALVFML|Kind=1|AlternatePart= 
+Variation67=Designator=R7_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation68=Designator=R7_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation69=Designator=R7_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation70=Designator=R7_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\BFMRUOZO|Kind=1|AlternatePart= 
+Variation71=Designator=R7_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation72=Designator=R7_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation73=Designator=R7_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation74=Designator=R7_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
+Variation75=Designator=C2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Case|VariantValue=0402
+ParamDesignator1=C2_B1
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=C2_B1
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=C2_B1
+ParamVariation4=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator4=C2_B1
+ParamVariation5=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator5=C2_B1
+ParamVariation6=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator6=C2_B1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C2_B1
+ParamVariation8=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator8=C2_B1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator9=C2_B1
+ParamVariation10=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator10=C2_B1
+ParamVariation11=ParameterName=Material|VariantValue=X7R
+ParamDesignator11=C2_B1
+ParamVariation12=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator12=C2_B1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C2_B1
+ParamVariation14=ParameterName=Pin Info|VariantValue= 
+ParamDesignator14=C2_B1
+ParamVariation15=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator15=C2_B1
+ParamVariation16=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator16=C2_B1
+ParamVariation17=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator17=C2_B1
+ParamVariation18=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator18=C2_B1
+ParamVariation19=ParameterName=Simulation|VariantValue= 
+ParamDesignator19=C2_B1
+ParamVariation20=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator20=C2_B1
+ParamVariation21=ParameterName=Value|VariantValue=22n
+ParamDesignator21=C2_B1
+Variation76=Designator=C2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation22=ParameterName=Case|VariantValue=0402
+ParamDesignator22=C2_B2
+ParamVariation23=ParameterName=Comment|VariantValue==Value
+ParamDesignator23=C2_B2
+ParamVariation24=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator24=C2_B2
+ParamVariation25=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator25=C2_B2
+ParamVariation26=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator26=C2_B2
+ParamVariation27=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator27=C2_B2
+ParamVariation28=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator28=C2_B2
+ParamVariation29=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator29=C2_B2
+ParamVariation30=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator30=C2_B2
+ParamVariation31=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator31=C2_B2
+ParamVariation32=ParameterName=Material|VariantValue=X7R
+ParamDesignator32=C2_B2
+ParamVariation33=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator33=C2_B2
+ParamVariation34=ParameterName=PCB3D|VariantValue= 
+ParamDesignator34=C2_B2
+ParamVariation35=ParameterName=Pin Info|VariantValue= 
+ParamDesignator35=C2_B2
+ParamVariation36=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator36=C2_B2
+ParamVariation37=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator37=C2_B2
+ParamVariation38=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator38=C2_B2
+ParamVariation39=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator39=C2_B2
+ParamVariation40=ParameterName=Simulation|VariantValue= 
+ParamDesignator40=C2_B2
+ParamVariation41=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator41=C2_B2
+ParamVariation42=ParameterName=Value|VariantValue=22n
+ParamDesignator42=C2_B2
+Variation77=Designator=C2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation43=ParameterName=Case|VariantValue=0402
+ParamDesignator43=C2_B3
+ParamVariation44=ParameterName=Comment|VariantValue==Value
+ParamDesignator44=C2_B3
+ParamVariation45=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator45=C2_B3
+ParamVariation46=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator46=C2_B3
+ParamVariation47=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator47=C2_B3
+ParamVariation48=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator48=C2_B3
+ParamVariation49=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator49=C2_B3
+ParamVariation50=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator50=C2_B3
+ParamVariation51=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator51=C2_B3
+ParamVariation52=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator52=C2_B3
+ParamVariation53=ParameterName=Material|VariantValue=X7R
+ParamDesignator53=C2_B3
+ParamVariation54=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator54=C2_B3
+ParamVariation55=ParameterName=PCB3D|VariantValue= 
+ParamDesignator55=C2_B3
+ParamVariation56=ParameterName=Pin Info|VariantValue= 
+ParamDesignator56=C2_B3
+ParamVariation57=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator57=C2_B3
+ParamVariation58=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator58=C2_B3
+ParamVariation59=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator59=C2_B3
+ParamVariation60=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator60=C2_B3
+ParamVariation61=ParameterName=Simulation|VariantValue= 
+ParamDesignator61=C2_B3
+ParamVariation62=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator62=C2_B3
+ParamVariation63=ParameterName=Value|VariantValue=22n
+ParamDesignator63=C2_B3
+Variation78=Designator=C2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation64=ParameterName=Case|VariantValue=0402
+ParamDesignator64=C2_B4
+ParamVariation65=ParameterName=Comment|VariantValue==Value
+ParamDesignator65=C2_B4
+ParamVariation66=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator66=C2_B4
+ParamVariation67=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator67=C2_B4
+ParamVariation68=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator68=C2_B4
+ParamVariation69=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator69=C2_B4
+ParamVariation70=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator70=C2_B4
+ParamVariation71=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator71=C2_B4
+ParamVariation72=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator72=C2_B4
+ParamVariation73=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator73=C2_B4
+ParamVariation74=ParameterName=Material|VariantValue=X7R
+ParamDesignator74=C2_B4
+ParamVariation75=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator75=C2_B4
+ParamVariation76=ParameterName=PCB3D|VariantValue= 
+ParamDesignator76=C2_B4
+ParamVariation77=ParameterName=Pin Info|VariantValue= 
+ParamDesignator77=C2_B4
+ParamVariation78=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator78=C2_B4
+ParamVariation79=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator79=C2_B4
+ParamVariation80=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator80=C2_B4
+ParamVariation81=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator81=C2_B4
+ParamVariation82=ParameterName=Simulation|VariantValue= 
+ParamDesignator82=C2_B4
+ParamVariation83=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator83=C2_B4
+ParamVariation84=ParameterName=Value|VariantValue=22n
+ParamDesignator84=C2_B4
+Variation79=Designator=C2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation85=ParameterName=Case|VariantValue=0402
+ParamDesignator85=C2_B5
+ParamVariation86=ParameterName=Comment|VariantValue==Value
+ParamDesignator86=C2_B5
+ParamVariation87=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator87=C2_B5
+ParamVariation88=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator88=C2_B5
+ParamVariation89=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator89=C2_B5
+ParamVariation90=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator90=C2_B5
+ParamVariation91=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator91=C2_B5
+ParamVariation92=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator92=C2_B5
+ParamVariation93=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator93=C2_B5
+ParamVariation94=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator94=C2_B5
+ParamVariation95=ParameterName=Material|VariantValue=X7R
+ParamDesignator95=C2_B5
+ParamVariation96=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator96=C2_B5
+ParamVariation97=ParameterName=PCB3D|VariantValue= 
+ParamDesignator97=C2_B5
+ParamVariation98=ParameterName=Pin Info|VariantValue= 
+ParamDesignator98=C2_B5
+ParamVariation99=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator99=C2_B5
+ParamVariation100=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator100=C2_B5
+ParamVariation101=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator101=C2_B5
+ParamVariation102=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator102=C2_B5
+ParamVariation103=ParameterName=Simulation|VariantValue= 
+ParamDesignator103=C2_B5
+ParamVariation104=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator104=C2_B5
+ParamVariation105=ParameterName=Value|VariantValue=22n
+ParamDesignator105=C2_B5
+Variation80=Designator=C2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation106=ParameterName=Case|VariantValue=0402
+ParamDesignator106=C2_B6
+ParamVariation107=ParameterName=Comment|VariantValue==Value
+ParamDesignator107=C2_B6
+ParamVariation108=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator108=C2_B6
+ParamVariation109=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator109=C2_B6
+ParamVariation110=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator110=C2_B6
+ParamVariation111=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator111=C2_B6
+ParamVariation112=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator112=C2_B6
+ParamVariation113=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator113=C2_B6
+ParamVariation114=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator114=C2_B6
+ParamVariation115=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator115=C2_B6
+ParamVariation116=ParameterName=Material|VariantValue=X7R
+ParamDesignator116=C2_B6
+ParamVariation117=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator117=C2_B6
+ParamVariation118=ParameterName=PCB3D|VariantValue= 
+ParamDesignator118=C2_B6
+ParamVariation119=ParameterName=Pin Info|VariantValue= 
+ParamDesignator119=C2_B6
+ParamVariation120=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator120=C2_B6
+ParamVariation121=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator121=C2_B6
+ParamVariation122=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator122=C2_B6
+ParamVariation123=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator123=C2_B6
+ParamVariation124=ParameterName=Simulation|VariantValue= 
+ParamDesignator124=C2_B6
+ParamVariation125=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator125=C2_B6
+ParamVariation126=ParameterName=Value|VariantValue=22n
+ParamDesignator126=C2_B6
+Variation81=Designator=C2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation127=ParameterName=Case|VariantValue=0402
+ParamDesignator127=C2_B7
+ParamVariation128=ParameterName=Comment|VariantValue==Value
+ParamDesignator128=C2_B7
+ParamVariation129=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator129=C2_B7
+ParamVariation130=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator130=C2_B7
+ParamVariation131=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator131=C2_B7
+ParamVariation132=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator132=C2_B7
+ParamVariation133=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator133=C2_B7
+ParamVariation134=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator134=C2_B7
+ParamVariation135=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator135=C2_B7
+ParamVariation136=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator136=C2_B7
+ParamVariation137=ParameterName=Material|VariantValue=X7R
+ParamDesignator137=C2_B7
+ParamVariation138=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator138=C2_B7
+ParamVariation139=ParameterName=PCB3D|VariantValue= 
+ParamDesignator139=C2_B7
+ParamVariation140=ParameterName=Pin Info|VariantValue= 
+ParamDesignator140=C2_B7
+ParamVariation141=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator141=C2_B7
+ParamVariation142=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator142=C2_B7
+ParamVariation143=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator143=C2_B7
+ParamVariation144=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator144=C2_B7
+ParamVariation145=ParameterName=Simulation|VariantValue= 
+ParamDesignator145=C2_B7
+ParamVariation146=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator146=C2_B7
+ParamVariation147=ParameterName=Value|VariantValue=22n
+ParamDesignator147=C2_B7
+Variation82=Designator=C2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\QHXCRXWW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
+ParamVariation148=ParameterName=Case|VariantValue=0402
+ParamDesignator148=C2_B8
+ParamVariation149=ParameterName=Comment|VariantValue==Value
+ParamDesignator149=C2_B8
+ParamVariation150=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator150=C2_B8
+ParamVariation151=ParameterName=Database Table Name|VariantValue=Capacitors - Ceramic
+ParamDesignator151=C2_B8
+ParamVariation152=ParameterName=Description|VariantValue=Chip ceramic capacitor
+ParamDesignator152=C2_B8
+ParamVariation153=ParameterName=Footprint|VariantValue=CC0402M
+ParamDesignator153=C2_B8
+ParamVariation154=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator154=C2_B8
+ParamVariation155=ParameterName=Library Reference|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator155=C2_B8
+ParamVariation156=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator156=C2_B8
+ParamVariation157=ParameterName=Manufacturer PN|VariantValue=CC0402KRX7R9BB223
+ParamDesignator157=C2_B8
+ParamVariation158=ParameterName=Material|VariantValue=X7R
+ParamDesignator158=C2_B8
+ParamVariation159=ParameterName=PartNumber|VariantValue=CC0402K-X7R-50V-22N-M
+ParamDesignator159=C2_B8
+ParamVariation160=ParameterName=PCB3D|VariantValue= 
+ParamDesignator160=C2_B8
+ParamVariation161=ParameterName=Pin Info|VariantValue= 
+ParamDesignator161=C2_B8
+ParamVariation162=ParameterName=Publisher|VariantValue=alexey.savchenko
+ParamDesignator162=C2_B8
+ParamVariation163=ParameterName=Publishing Date|VariantValue=12/7/2020
+ParamDesignator163=C2_B8
+ParamVariation164=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator164=C2_B8
+ParamVariation165=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator165=C2_B8
+ParamVariation166=ParameterName=Simulation|VariantValue= 
+ParamDesignator166=C2_B8
+ParamVariation167=ParameterName=Tollerance|VariantValue=10%
+ParamDesignator167=C2_B8
+ParamVariation168=ParameterName=Value|VariantValue=22n
+ParamDesignator168=C2_B8
+ParamVariationCount=168
 
 [SearchPath1]
 Path=..\..\..\..\..\..\_AltiumLib\*.*
