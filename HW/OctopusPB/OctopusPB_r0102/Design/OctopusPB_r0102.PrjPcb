@@ -311,9 +311,9 @@ Variation64=Designator=R7_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\BFMRUOZO|Kind=1|Altern
 Variation65=Designator=R7_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
 Variation66=Designator=R7_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\BFMRUOZO|Kind=1|AlternatePart= 
 Variation67=Designator=C2_B1|UniqueId=\CYPDEPWP\1CSYTEFTS\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case|VariantValue=0402
+ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=C2_B1
-ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamVariation2=ParameterName=Case|VariantValue=0402
 ParamDesignator2=C2_B1
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=C2_B1
@@ -354,9 +354,9 @@ ParamDesignator20=C2_B1
 ParamVariation21=ParameterName=Value|VariantValue=22n
 ParamDesignator21=C2_B1
 Variation68=Designator=C2_B2|UniqueId=\CYPDEPWP\2CSYTEFTS\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation22=ParameterName=Case|VariantValue=0402
+ParamVariation22=ParameterName=Comment|VariantValue==Value
 ParamDesignator22=C2_B2
-ParamVariation23=ParameterName=Comment|VariantValue==Value
+ParamVariation23=ParameterName=Case|VariantValue=0402
 ParamDesignator23=C2_B2
 ParamVariation24=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator24=C2_B2
@@ -397,9 +397,9 @@ ParamDesignator41=C2_B2
 ParamVariation42=ParameterName=Value|VariantValue=22n
 ParamDesignator42=C2_B2
 Variation69=Designator=C2_B3|UniqueId=\CYPDEPWP\3CSYTEFTS\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation43=ParameterName=Case|VariantValue=0402
+ParamVariation43=ParameterName=Comment|VariantValue==Value
 ParamDesignator43=C2_B3
-ParamVariation44=ParameterName=Comment|VariantValue==Value
+ParamVariation44=ParameterName=Case|VariantValue=0402
 ParamDesignator44=C2_B3
 ParamVariation45=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator45=C2_B3
@@ -440,9 +440,9 @@ ParamDesignator62=C2_B3
 ParamVariation63=ParameterName=Value|VariantValue=22n
 ParamDesignator63=C2_B3
 Variation70=Designator=C2_B4|UniqueId=\CYPDEPWP\4CSYTEFTS\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation64=ParameterName=Case|VariantValue=0402
+ParamVariation64=ParameterName=Comment|VariantValue==Value
 ParamDesignator64=C2_B4
-ParamVariation65=ParameterName=Comment|VariantValue==Value
+ParamVariation65=ParameterName=Case|VariantValue=0402
 ParamDesignator65=C2_B4
 ParamVariation66=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator66=C2_B4
@@ -483,9 +483,9 @@ ParamDesignator83=C2_B4
 ParamVariation84=ParameterName=Value|VariantValue=22n
 ParamDesignator84=C2_B4
 Variation71=Designator=C2_B5|UniqueId=\CYPDEPWP\1LIIVBGQN\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation85=ParameterName=Case|VariantValue=0402
+ParamVariation85=ParameterName=Comment|VariantValue==Value
 ParamDesignator85=C2_B5
-ParamVariation86=ParameterName=Comment|VariantValue==Value
+ParamVariation86=ParameterName=Case|VariantValue=0402
 ParamDesignator86=C2_B5
 ParamVariation87=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator87=C2_B5
@@ -526,9 +526,9 @@ ParamDesignator104=C2_B5
 ParamVariation105=ParameterName=Value|VariantValue=22n
 ParamDesignator105=C2_B5
 Variation72=Designator=C2_B6|UniqueId=\CYPDEPWP\6LIIVBGQN\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation106=ParameterName=Case|VariantValue=0402
+ParamVariation106=ParameterName=Comment|VariantValue==Value
 ParamDesignator106=C2_B6
-ParamVariation107=ParameterName=Comment|VariantValue==Value
+ParamVariation107=ParameterName=Case|VariantValue=0402
 ParamDesignator107=C2_B6
 ParamVariation108=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator108=C2_B6
@@ -569,9 +569,9 @@ ParamDesignator125=C2_B6
 ParamVariation126=ParameterName=Value|VariantValue=22n
 ParamDesignator126=C2_B6
 Variation73=Designator=C2_B7|UniqueId=\CYPDEPWP\7LIIVBGQN\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation127=ParameterName=Case|VariantValue=0402
+ParamVariation127=ParameterName=Comment|VariantValue==Value
 ParamDesignator127=C2_B7
-ParamVariation128=ParameterName=Comment|VariantValue==Value
+ParamVariation128=ParameterName=Case|VariantValue=0402
 ParamDesignator128=C2_B7
 ParamVariation129=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator129=C2_B7
@@ -612,9 +612,9 @@ ParamDesignator146=C2_B7
 ParamVariation147=ParameterName=Value|VariantValue=22n
 ParamDesignator147=C2_B7
 Variation74=Designator=C2_B8|UniqueId=\CYPDEPWP\8LIIVBGQN\SYVDTLMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=AltiumLib.DbLib/Capacitors - Ceramic|AltLibLink_SymbolReference=Capacitor_nonpolar|AltLibLink_DesignItemID=CC0402K-X7R-50V-22N-M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors - Ceramic|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CC0402M|AltLibLink_IsSameFootprint=True
-ParamVariation148=ParameterName=Case|VariantValue=0402
+ParamVariation148=ParameterName=Comment|VariantValue==Value
 ParamDesignator148=C2_B8
-ParamVariation149=ParameterName=Comment|VariantValue==Value
+ParamVariation149=ParameterName=Case|VariantValue=0402
 ParamDesignator149=C2_B8
 ParamVariation150=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator150=C2_B8
@@ -655,6 +655,10 @@ ParamDesignator167=C2_B8
 ParamVariation168=ParameterName=Value|VariantValue=22n
 ParamDesignator168=C2_B8
 ParamVariationCount=168
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for OctopusPB_r0102\Design Rule Check - OctopusPB_r0102.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\..\..\..\..\_AltiumLib\*.*
