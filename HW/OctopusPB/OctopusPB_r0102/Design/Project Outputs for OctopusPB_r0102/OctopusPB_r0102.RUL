@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\_RingData\Octopus\HW\OctopusPB\OctopusPB_r0102\Design\OctopusPB_r0102.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Earth_NoNet|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_Earth|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_FP|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_Polygon_HF_Trace|Scope=Board|Minimum=27.56
+RuleKind=Clearance|RuleName=Clearance_USB|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_USB|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit_NETsConnector|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_ShortCircuit_NETsConnector|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_KeepOut|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
